@@ -1,0 +1,18 @@
+.transactionTable {
+  margin-top: 24px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+.transactionTh {
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  background-color: rgb(46, 44, 44);
+  font-weight: 500;
+}
+.transactionTd {
+  text-align: center;
+  font-size: 16px;
+  color: black;
+  font-weight: 600;
+}
